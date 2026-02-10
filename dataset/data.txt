@@ -1,0 +1,3 @@
+This dataset contains information about AI, Machine Learning,
+Data Engineering, and Cloud technologies.
+Ollama is used to run LLMs locally.
