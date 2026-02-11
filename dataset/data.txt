@@ -1,3 +1,6 @@
-This dataset contains information about AI, Machine Learning,
-Data Engineering, and Cloud technologies.
-Ollama is used to run LLMs locally.
+Ollama is a local large language model (LLM) runtime.
+It allows users to download and run pretrained models such as Gemma,
+LLaMA, and Phi directly on their local machine.
+Ollama provides both a command-line interface and a REST API,
+making it easy to integrate LLMs into applications.
+It is commonly used for offline, private, and low-latency AI systems.
