@@ -2,7 +2,7 @@ import requests
 
 # 1. Dataset read karna
 def load_dataset():
-    with open("dataset/StudentPerformance.csv", "r", encoding="utf-8") as f:
+    with open("dataset/StudentsPerformance.csv", "r", encoding="utf-8") as f:
         return f.read()
 
 # 2. Ollama (Gemma) ko call karna
